@@ -1,9 +1,9 @@
 Hey! there 👋
 
 About:
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning python and DSA 
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
