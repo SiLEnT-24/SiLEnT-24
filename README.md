@@ -1,7 +1,7 @@
 Hey! there 👋
 
 About:
-- 🌱 I’m currently learning python and DSA 
+- 🌱 I’m currently learning python and DSA and preparing for Github Action certification
 - 💬 Ask me about ...
 - ⚡ Fun fact: 
 <div id="header" align="center">
